@@ -1,13 +1,14 @@
 
 ### Матеріали | Сайти йдуть у послідовності
-https://informatics.msk.ru/
-https://acmp.ru/index.asp?main=tasks
-https://acm.timus.ru/
-https://leetcode.com/
-https://www.hackerrank.com/
-https://codeforces.com/
-https://www.codechef.com/
-https://usaco.guide/
+- [Informatics](https://informatics.msk.ru/)
+- [ACMP Задачі](https://acmp.ru/index.asp?main=tasks)
+- [ACM Задачі](https://acm.timus.ru/)
+- [Leetcode Задачі](https://leetcode.com/)
+- [Hackerrank Задачі](https://www.hackerrank.com/)
+- [Codeforcess Мачмейкинг](https://codeforces.com/)
+- [Codechef](https://www.codechef.com/)
+- [USACO Олімпіада](https://usaco.guide/)
+
 
 
 ### Тема 0 | Точка Входу  
